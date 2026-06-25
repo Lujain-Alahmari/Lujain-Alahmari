@@ -29,4 +29,5 @@ Computer Science Graduate with a strong interest in Artificial Intelligence, Mac
 
 ## Connect With Me
 
-- GitHub: github.com/Lujain-Alahmari   email: lujainmesferalahmari@gmai.com
+- GitHub: github.com/Lujain-Alahmari
+- email: lujainmesferalahmari@gmai.com
